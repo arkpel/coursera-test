@@ -1,0 +1,15 @@
+.navbar-nav {
+    margin: 0 -15px;
+}
+.nav>li {
+    background-color: lightyellow;text-align: center; border-bottom: 1px solid #ddd; 
+}
+.nav>li:hover {
+    background-color: greenyellow;
+}
+
+section.menu {
+    background-color: #ddd; padding: 5px 20px 10px; margin-bottom: 20px; display: block;
+}
+
+footer{background-color: lightcyan ; border-top: 1px solid lightgrey; padding: 10px;}
